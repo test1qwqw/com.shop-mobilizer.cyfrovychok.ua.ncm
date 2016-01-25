@@ -26,4 +26,5 @@
   <gap:platform name="android"/>
   <gap:plugin   name="phonegap-plugin-push"             source="npm" spec="1.5.3"/>
   <gap:plugin   name="cordova-plugin-x-socialsharing"   source="npm" spec="5.0.9"/>
+  <preference   name="android-minSdkVersion" value="14"/>
 </widget>
