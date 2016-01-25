@@ -15,13 +15,13 @@
   <preference name="phonegap-version" value="cli-5.2.0"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
-  <preference name="android-build-tool" value="gradle"/>
   <feature    name="http://api.phonegap.com/1.0/file"/>
 
   <gap:plugin   name="org.apache.cordova.file"          source="pgb" spec="1.3.3"/>
   <gap:plugin   name="org.apache.cordova.globalization" source="pgb" spec="0.3.4"/>
   <gap:plugin   name="org.apache.cordova.inappbrowser"  source="pgb" spec="0.6.0"/>
   <access       origin="*"/>
+  <preference   name="android-build-tool" value="gradle" />
   <icon         src="icon.png" gap:platform="android" gap:qualifier="hdpi"/>
   <gap:splash   src="logo.png" gap:platform="android"/>
   <gap:platform name="android"/>
