@@ -3,8 +3,8 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.shop-mobilizer.cyfrovychok.ua.ncm"
-  version     = "16.02.01"
-  versionCode = "160201"
+  version     = "16.02.03"
+  versionCode = "160203"
 >
   <name>NCM Цифровичок</name>
   <author
