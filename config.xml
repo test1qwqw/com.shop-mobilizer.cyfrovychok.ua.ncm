@@ -12,7 +12,7 @@
     email="info@shop-mobilizer.com">Shop-Mobilizer.com
   </author>
   <description>cyfrovychok.ua.ncm for android</description>
-  <preference name="phonegap-version" value="cli-6.0.0"/>
+  <preference name="phonegap-version" value="cli-5.2.0"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
   <feature    name="http://api.phonegap.com/1.0/file"/>
