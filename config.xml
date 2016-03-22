@@ -28,4 +28,5 @@
   <icon         src="icon.png" gap:platform="android" gap:qualifier="hdpi"/>
   <gap:splash   src="logo.png" gap:platform="android"/>
   <gap:platform name="android"/>
+  <preference name="android-minSdkVersion" value="14"/>
 </widget>
